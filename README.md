@@ -8,10 +8,10 @@
 
 ## My Current skills include:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/css-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![react](https://img.shields.io/badge/react-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-%23E34F26.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![css](https://img.shields.io/badge/css-%23E34F26.svg?style=for-the-badge&logo=css&logoColor=white)
+![python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white)
+![react](https://img.shields.io/badge/react-%23E34F26.svg?style=for-the-badge&logo=react&logoColor=white)
 
   
 - 😄 Pronouns: He/Him

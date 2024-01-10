@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on a full-stack web application for codesquad!
 - 🌱 I’m currently learning HTML, CSS, Javascript, and the MERN tech stack!
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-anzueta/) 
+- 📫 How to reach me:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-anzueta/) 
   
 
 ## My Current skills include:

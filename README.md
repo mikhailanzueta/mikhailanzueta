@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello, 👋 I'm Mikhail Anzueta
+## I'm an aspiring full-stack web developer/software engineer
 
-<!--
-**mikhailanzueta/mikhailanzueta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a full-stack web application for codesquad!
+- 🌱 I’m currently learning HTML, CSS, Javascript, and the MERN tech stack!
+- 📫 How to reach me: [Linkedin] (https://www.linkedin.com/in/mikhailanzueta/) [Gmail] (https://www.mail.google.com/mikianzueta@gmail.com)
+  
 
-Here are some ideas to get you started:
+## My Current skills include:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/css-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![react](https://img.shields.io/badge/react-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+- 😄 Pronouns: He/Him

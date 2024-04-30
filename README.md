@@ -14,4 +14,4 @@
 ![python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=MongoDB&logoColor=green)
-![NodeJS](https://img.shields.io/badge/NodeJS-1572B6?&style=for-the-badge&logo=nodejs3&logoColor=yellow)
+![Static Badge](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=Node.js&logoColor=green)

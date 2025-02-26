@@ -1,8 +1,8 @@
 ### Hello, 👋 I'm Mikhail Anzueta
 ## I'm a full-stack web developer/software engineer
 
-- 🔭 I’m actively working on two full-stack web application for CodeSquad.
-- 🌱 I’m currently learning the MERN tech stack!
+- 🔭 I’m actively working on a end-to-end, job hosting platform.
+- 🌱 I’m currently learning Typescript, Postgres, Docker, and AWS!
 ## How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-anzueta/) 
   
@@ -15,3 +15,5 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=MongoDB&logoColor=green)
 ![Static Badge](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=Node.js&logoColor=green)
+![Static Badge](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=Typescript&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=Postgres&logoColor=red)

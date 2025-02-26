@@ -1,7 +1,7 @@
 ### Hello, 👋 I'm Mikhail Anzueta
 ## I'm a full-stack web developer/software engineer
 
-- 🔭 I’m actively working on a end-to-end, job hosting platform.
+- 🔭 I am actively working on a end-to-end, job hosting platform.
 - 🌱 I’m currently learning Typescript, Postgres, Docker, and AWS!
 ## How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-anzueta/) 

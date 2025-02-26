@@ -15,5 +15,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=MongoDB&logoColor=green)
 ![Static Badge](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=Node.js&logoColor=green)
-![Static Badge](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=Typescript&logoColor=blue)
-![Static Badge](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=Postgres&logoColor=red)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
